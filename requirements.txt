@@ -8,6 +8,7 @@ numpy==2.3.3
 
 # ML / DL
 scikit_learn==1.7.2
-tensorflow==2.17.0
+tensorflow==2.20.0rc0
 keras==3.11.3
 optree>=0.11.0
+
